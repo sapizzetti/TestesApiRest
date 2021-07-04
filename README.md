@@ -1,5 +1,5 @@
 # TestesApiRest
 
-Para rodar os testes basta executar o comando abaixo:
+Executar o comando abaixo para rodar os testes:
 
 mvn clean verify
