@@ -1,4 +1,4 @@
-package br.com.restAssured.api.Simulacoes;
+package br.com.sicredi.api.Simulacoes;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.http.ContentType;
