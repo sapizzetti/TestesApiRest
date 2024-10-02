@@ -1,4 +1,4 @@
-package br.com.sicredi.api.Simulacoes;
+package br.com.restAssured.api.Simulacoes;
 
 
 import org.junit.Test;
