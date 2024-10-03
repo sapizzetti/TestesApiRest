@@ -1,4 +1,4 @@
-package br.com.sicredi.api.Simulacoes;
+package br.com.qa.api.Simulacoes;
 
 
 import io.restassured.http.ContentType;
