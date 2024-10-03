@@ -1,4 +1,4 @@
-package br.com.qa.api.Simulacoes;
+package br.com.qa.api.Usuarios;
 
 
 import org.junit.Test;
